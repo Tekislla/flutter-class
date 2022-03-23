@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// ignore: must_be_immutable
 class ExampleWidget extends StatelessWidget {
   ExampleWidget({
     required this.title,
